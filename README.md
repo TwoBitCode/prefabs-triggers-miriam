@@ -1,5 +1,5 @@
 # Space Shooter Game - Enhanced Features 🚀
-Play the game on Itch.io: 
+Play the game on Itch.io: https://twobitcode.itch.io/prefab-triggers-miriam
 
 ## Overview 🌌
 This is an enhanced version of the Space Shooter game, originally developed during lectures. The improvements include:
