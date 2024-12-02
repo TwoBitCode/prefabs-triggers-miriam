@@ -12,8 +12,9 @@ This is an enhanced version of the Space Shooter game, originally developed duri
    - The position adapts automatically to changes in screen size and orientation.
    - Implemented using the `Canvas` system in Unity, ensuring a responsive UI design.
 
-in code: I used changed the Numfield and LaserShooter code: 
+in code: I changed the Numfield and LaserShooter code: 
 https://github.com/TwoBitCode/prefabs-triggers-miriam/blob/main/Assets/Scripts/4-levels/NumberField.cs
+
 https://github.com/TwoBitCode/prefabs-triggers-miriam/blob/main/Assets/Scripts/2-spawners/LaserShooter.cs
   
 ### 2. **Circular Horizontal Boundaries** 🔄
